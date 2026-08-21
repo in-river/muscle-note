@@ -16,15 +16,15 @@
 
 ### メイン画面
 
-![MuscleNote メイン画面](docs/images/main.png)
+![MuscleNote メイン画面](images/main.png)
 
 ### 記録履歴
 
-![MuscleNote 記録履歴](docs/images/history.png)
+![MuscleNote 記録履歴](images/history.png)
 
 ### 総負荷量グラフ
 
-![MuscleNote 総負荷量グラフ](docs/images/graph.png)
+![MuscleNote 総負荷量グラフ](images/graph.png)
 
 ---
 
